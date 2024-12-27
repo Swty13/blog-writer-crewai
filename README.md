@@ -15,6 +15,12 @@ A powerful AI-powered blog writing system built with CrewAI that generates high-
 - 🔍 Keyword optimization
 - 📝 Professional editing and proofreading
 
+🖥️ Interface Preview
+Here's how our application looks:
+
+![Interface](ai_blog_writer.png)
+
+
 ## 🛠️ System Architecture
 
 The system utilizes four specialized AI agents:
